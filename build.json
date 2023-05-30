@@ -1,0 +1,18 @@
+{
+    "android": {
+        "debug": {
+            "keystore": "./g2t.keystore",
+            "storePassword": "gowntotown",
+            "alias": "gowntotown",
+            "password" : "gowntotown",
+            "keystoreType": "jks"
+        },
+        "release": {
+            "keystore": "./g2t.keystore",
+            "storePassword": "gowntotown",
+            "alias": "gowntotown",
+            "password" : "gowntotown",
+            "keystoreType": "jks"
+        }
+    }
+}
